@@ -6,4 +6,4 @@
 
 ### LLM & AI
 
-- [[llm-knowledge-bases]] — 利用 LLM 编译个人知识库的方法论（Karpathy, 2026）
+- [[llm-knowledge-bases]] — 利用 LLM 增量编译持久 wiki 替代传统 RAG 的知识管理模式（Karpathy, 2026）
