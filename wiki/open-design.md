@@ -111,4 +111,5 @@ Open Design 自述站在以下开源团队的肩膀上：
 
 - 官网：[open-design.ai](https://open-design.ai/)
 - GitHub：[nexu-io/open-design](https://github.com/nexu-io/open-design)
-- 相关概念：[[llm-knowledge-bases]]
+- 相关概念：[[llm-knowledge-bases]]、[[agent-skills]]
+- 同路异轨：[[impeccable]] — 同样把 AI 编码助手转为设计引擎，但走"1 skill × 23 命令 × 双 register"的纵向路线，而非 Open Design 的"31 skills + 72 design systems"横向铺开

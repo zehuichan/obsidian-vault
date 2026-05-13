@@ -80,6 +80,8 @@ Skill-Creator 的完整流程很严谨，但也有明显成本：评估和 descr
 
 - [[hermes-agent]] — 自我改进 Agent 中的 Skills 系统实践
 - [[llm-knowledge-bases]] — 将知识从临时上下文编译进持久结构的方法论
+- [[impeccable]] — 一个完成度极高的 Skill 包范例：单命名空间、23 子命令、按 register 分支的引用资料、可 pin/unpin 重定向、A/B 评估闭环
+- [[open-design]] — Skill-driven 设计工作流的另一条路径（31 skills + 72 design systems）
 
 ## 参考
 
