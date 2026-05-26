@@ -13,3 +13,4 @@
 - [[impeccable]] — 把 23 条命令 + 27 条反模式检测 + brand/product 双 register 编入 AI 编码助手的设计 Skill 包（Paul Bakaus, 2026）
 - [[openspec]] — 轻量级 spec-driven 框架：仓库内活规格 + spec delta + 变更提案包，跨 Agent 的规划层（Fission AI, 2026）
 - [[codegraph]] — 本地预索引代码知识图谱 MCP 服务，为 Claude Code/Cursor 等 Agent 提供符号搜索与调用链分析，平均节省 35% 成本（colbymchenry, 2026）
+- [[trellis]] — 团队级 AI 编码 Agent 脚手架 + 仓库内 LLM wiki：spec / task / workflow / journal 全部固化为 git Markdown，按平台用 hook、auto-skill、sub-agent 注入到 14 个编码 Agent（Mindfold HQ, 2026）
