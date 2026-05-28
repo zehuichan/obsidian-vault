@@ -11,6 +11,6 @@
 - [[hermes-agent]] — Nous Research 开源的自我改进 AI Agent，具备闭环学习、跨平台接入和 skill 自动创建能力
 - [[agent-skills]] — Agent Skill 的规范结构、渐进式加载、触发机制、构建方法和常见设计模式
 - [[impeccable]] — 把 23 条命令 + 27 条反模式检测 + brand/product 双 register 编入 AI 编码助手的设计 Skill 包（Paul Bakaus, 2026）
-- [[openspec]] — 轻量级 spec-driven 框架：仓库内活规格 + spec delta + 变更提案包，跨 Agent 的规划层（Fission AI, 2026）
+- [[openspec]] — 轻量级 spec-driven 框架：v1.3 引入 `/opsx:propose|apply|archive` artifact-guided 工作流 + Dashboard + profile 系统，仓库内活规格与变更提案包，跨 25+ Agent 的规划层（Fission AI, 2026）
 - [[codegraph]] — 本地预索引代码知识图谱 MCP 服务，为 Claude Code/Cursor 等 Agent 提供符号搜索与调用链分析，平均节省 35% 成本（colbymchenry, 2026）
 - [[trellis]] — 团队级 AI 编码 Agent 脚手架 + 仓库内 LLM wiki：spec / task / workflow / journal 全部固化为 git Markdown，按平台用 hook、auto-skill、sub-agent 注入到 14 个编码 Agent（Mindfold HQ, 2026）
