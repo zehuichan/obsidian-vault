@@ -6,7 +6,7 @@ source: "https://docs.trytrellis.app/"
 
 # Trellis
 
-由 Mindfold HQ 维护的**团队级 AI 编码 Agent 脚手架（Agent Harness）+ 仓库内 LLM wiki**。把项目规范（spec）、任务（task）、工作流（workflow）和会话记忆（workspace journal）全部固化为 git 跟踪的 Markdown，并通过 hook、auto-trigger skill、sub-agent 三类原语自动注入到任意 AI 编码会话。当前覆盖 14 个主流编码 Agent（Claude Code、Cursor、Codex、OpenCode、Gemini CLI、Copilot、Windsurf、Kiro、Kilo、Antigravity、Qoder、CodeBuddy、Droid、Pi Agent），并通过 `.agents/skills/` 标准兼容更多 Agent。安装：`npm install -g @mindfoldhq/trellis@beta`。
+由 Mindfold HQ 维护的**团队级 AI 编码 Agent 脚手架（Agent Harness）+ 仓库内 LLM wiki**。把项目规范（spec）、任务（task）、工作流（workflow）和会话记忆（workspace journal）全部固化为 git 跟踪的 Markdown，并通过 hook、auto-trigger skill、sub-agent 三类原语自动注入到任意 AI 编码会话。当前覆盖 14 个主流编码 Agent（Claude Code、Cursor、Codex、OpenCode、Gemini CLI、Copilot、Windsurf、Kiro、Kilo、Antigravity、Qoder、CodeBuddy、Droid、[[pi|Pi Agent]]），并通过 `.agents/skills/` 标准兼容更多 Agent。安装：`npm install -g @mindfoldhq/trellis@beta`。
 
 > 比喻：AI 的能力像藤蔓，生命力旺盛但四处蔓延；Trellis 就是引导藤蔓沿你团队规范生长的支架。
 
