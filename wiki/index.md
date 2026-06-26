@@ -21,4 +21,5 @@
 
 ### Web 框架 & 前端
 
+- [[codemirror]] — 用于 Web 的可嵌入代码编辑器组件，提供语法高亮、补全、折叠、搜索替换、解析、协作编辑、主题和扩展接口等能力
 - [[ilha]] — 极小、同构的岛屿架构（islands architecture）Web UI 库：signal 细粒度响应式、无虚拟 DOM/无编译器，SSR + 零闪烁 hydration，后端无关（Nitro/Hono），源码小到可塞进 AI 上下文窗口（ilhajs, 2026）
