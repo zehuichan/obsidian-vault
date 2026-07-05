@@ -20,6 +20,10 @@
 - [[agentic-erp-landing-cases]] — 全球 Agentic ERP 落地案例深度解析：三大阵营（传统巨头/云原生/AI Native+国产）厂商战略、跨行业 ROI 数据与四大落地壁垒（王吉伟, 2026）
 - [[how-to-build-agentic-erp]] — 在已有 ERP 上搭建 Agentic 能力的实操指南：五层技术栈、成熟度四级爬坡、四大前提、三条切入路径，含自研 ERP 的 MCP 工具设计与第一个落地场景
 
+### DevOps & 包管理
+
+- [[verdaccio]] — 轻量级 Node.js 私有 npm 代理 registry：零配置本地运行、代理缓存 npmjs.org、多 registry 聚合、覆盖公共包，支持 Docker / Helm 部署（Verdaccio Community, 2026）
+
 ### Web 框架 & 前端
 
 - [[codemirror]] — 用于 Web 的可嵌入代码编辑器组件，提供语法高亮、补全、折叠、搜索替换、解析、协作编辑、主题和扩展接口等能力
