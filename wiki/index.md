@@ -22,6 +22,7 @@
 
 ### DevOps & 包管理
 
+- [[sentry]] — 开发者优先的错误追踪与 APM 平台：Python/Django 后端 + React 前端 monorepo，20+ 语言 SDK，Fair Source 许可，支持 SaaS 与 self-hosted（getsentry, 2026）
 - [[verdaccio]] — 轻量级 Node.js 私有 npm 代理 registry：零配置本地运行、代理缓存 npmjs.org、多 registry 聚合、覆盖公共包，支持 Docker / Helm 部署（Verdaccio Community, 2026）
 
 ### Web 框架 & 前端
