@@ -19,6 +19,7 @@
 - [[ponytail]] — 让 AI 编码 Agent 像 senior dev 一样写最少可用代码的规则集/插件：七级决策阶梯（YAGNI → 复用 → stdlib → 原生 → 已装依赖 → 一行 → 最小 diff），宣称 54% 更少代码且 100% 保留安全维度（DietrichGebert, 2026）
 - [[agentic-erp-landing-cases]] — 全球 Agentic ERP 落地案例深度解析：三大阵营（传统巨头/云原生/AI Native+国产）厂商战略、跨行业 ROI 数据与四大落地壁垒（王吉伟, 2026）
 - [[how-to-build-agentic-erp]] — 在已有 ERP 上搭建 Agentic 能力的实操指南：五层技术栈、成熟度四级爬坡、四大前提、三条切入路径，含自研 ERP 的 MCP 工具设计与第一个落地场景
+- [[mastra]] — 现代 TypeScript AI 应用/Agent 框架：模型路由、Agents、图工作流、HITL、记忆/RAG、MCP、evals/observability，可嵌 React/Next/Node 或独立部署（YC W25）
 
 ### DevOps & 包管理
 
