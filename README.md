@@ -16,8 +16,7 @@
 ├── diary/             # 日记，命名格式：YYYY-MM-DD [摘要].md
 ├── tasks.md           # 全局任务列表
 ├── .agents/           # 本仓库专属 Agent skills
-├── .cursor/           # Cursor 规则与配置
-└── .codegraph/        # CodeGraph 索引（结构化代码图谱缓存）
+└── .cursor/           # Cursor 规则与配置
 ```
 
 ## 核心工作流
