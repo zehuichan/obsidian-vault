@@ -23,6 +23,7 @@
 - [[opencode]] — 开源 AI 编码 Agent：终端 / 桌面 / IDE，LSP + 多会话 + 会话分享，75+ 模型提供商，可复用 Copilot / ChatGPT 订阅，隐私优先不存储代码上下文（Anomaly, 2026）
 - [[matt-pocock-skills]] — 「Skills For Real Engineers」：可组合的 Agent Skills，用 grilling / CONTEXT.md / TDD / deep modules 修复对齐、啰嗦、无反馈与泥球架构（Matt Pocock, 2026）
 - [[grok-build]] — SpaceXAI 开源终端 AI 编码 Agent（`grok`）：Rust TUI + agent runtime，支持交互/headless/ACP，含 MCP、skills、hooks、sandbox（xai-org, 2026）
+- [[agent-browser]] — 面向 AI Agent 的浏览器自动化 CLI：Rust + CDP daemon、snapshot refs、MCP/skills、会话认证与云浏览器 provider（Vercel Labs, 2026）
 
 ### DevOps & 包管理
 
