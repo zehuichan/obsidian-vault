@@ -24,6 +24,7 @@
 - [[matt-pocock-skills]] — 「Skills For Real Engineers」：可组合的 Agent Skills，用 grilling / CONTEXT.md / TDD / deep modules 修复对齐、啰嗦、无反馈与泥球架构（Matt Pocock, 2026）
 - [[grok-build]] — SpaceXAI 开源终端 AI 编码 Agent（`grok`）：Rust TUI + agent runtime，支持交互/headless/ACP，含 MCP、skills、hooks、sandbox（xai-org, 2026）
 - [[agent-browser]] — 面向 AI Agent 的浏览器自动化 CLI：Rust + CDP daemon、snapshot refs、MCP/skills、会话认证与云浏览器 provider（Vercel Labs, 2026）
+- [[cua]] — computer-use 2.0 开源栈：后台桌面 Drivers（CLI/MCP）、跨 OS Sandbox、Bench/RL 环境与 Apple Silicon Lume 虚拟化（trycua, 2026）
 
 ### DevOps & 包管理
 

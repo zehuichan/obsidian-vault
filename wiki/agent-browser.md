@@ -89,6 +89,7 @@ agent-browser skills get core          # 运行时拉取与当前 CLI 匹配的�
 - 与 [[agent-skills]]：官方推荐 `npx skills add`；stub skill 再 `skills get` 加载与 CLI 同步的正文
 - 与 [[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]：编码 Agent 可把本 CLI 当浏览器工具层；OpenCode 等在 skill 安装列表中被明确提及
 - 与 [[codegraph]]、[[headroom]]：可分别补「代码结构」与「工具输出压缩」；agent-browser 的 snapshot/MCP 输出本身也可用 Headroom 一类压缩层控制上下文
+- 与 [[cua]]：浏览器层 vs 桌面/OS 层——agent-browser 走 CDP + refs；Cua Drivers 做后台原生桌面控制，Sandbox/Bench/Lume 覆盖完整 computer-use 栈
 
 
 
@@ -107,5 +108,5 @@ agent-browser skills get core          # 运行时拉取与当前 CLI 匹配的�
 - 仓库：[github.com/vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 - Skill 目录：[skills.sh/vercel-labs/agent-browser](https://skills.sh/vercel-labs/agent-browser)
 - 原始剪藏：`raw/2026-07-27-agent-browser.md`
-- 同类对照：[[agent-skills]]、[[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]
+- 同类对照：[[agent-skills]]、[[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]、[[cua]]
 
