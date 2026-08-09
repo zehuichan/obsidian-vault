@@ -41,3 +41,4 @@
 ### 媒体 & 创作工具
 
 - [[opencut]] — 开源 CapCut 替代品：Web/桌面/移动视频编辑器；classic 可用，main 正以 Rust core + plugin-first + MCP 从零重写（OpenCut-app, 2026）
+- [[hyperframes]] — HeyGen 开源 HTML→确定性 MP4 框架：可 seek 动画 + Agent skills（19）+ CLI/Lambda/Catalog，面向编码 Agent 写视频（HeyGen, 2026）
