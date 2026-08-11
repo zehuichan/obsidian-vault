@@ -43,3 +43,5 @@
 
 - [[opencut]] — 开源 CapCut 替代品：Web/桌面/移动视频编辑器；classic 可用，main 正以 Rust core + plugin-first + MCP 从零重写（OpenCut-app, 2026）
 - [[hyperframes]] — HeyGen 开源 HTML→确定性 MP4 框架：可 seek 动画 + Agent skills（19）+ CLI/Lambda/Catalog，面向编码 Agent 写视频（HeyGen, 2026）
+- [[excalidraw]] — 开源手绘风格虚拟白板：无限画布、协作与 E2E 加密，开放 `.excalidraw` JSON 格式（excalidraw.com）
+- [[excalidraw-diagram-generator]] — 从自然语言生成 `.excalidraw` 的 Agent Skill，覆盖九类图 + 模板/脚本（github/awesome-copilot）
