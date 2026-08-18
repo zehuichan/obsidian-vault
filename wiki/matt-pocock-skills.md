@@ -95,4 +95,5 @@ npx skills@latest add mattpocock/skills
 - [[trellis]] — 团队级 Agent 脚手架 + 仓库内 wiki
 - [[ponytail]] — 最小可用代码规则集
 - [[impeccable]] — 设计向 Skill 包
+- [[lean4-skills]] — 形式化证明向 Skill 包（sorry 循环 / mathlib / 公理门）
 - [[pi]] — 可安装第三方 skill 的极简 harness
