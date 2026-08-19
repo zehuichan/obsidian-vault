@@ -106,3 +106,4 @@ bun add ilha
 - 官网：[ilha.build](https://ilha.build/) · 仓库：[ilhajs/ilha](https://github.com/ilhajs/ilha)
 - 同主题（为 LLM 友好而极简）：[[pi]]
 - AI 理解代码 / 上下文经济学：[[codegraph]]、[[llm-knowledge-bases]]
+- 把 JS 本身编小 / 编没：[[porffor]]（AOT → Wasm/原生；Ilha 是运行时少发 JS）
