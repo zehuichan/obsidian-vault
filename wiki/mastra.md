@@ -55,6 +55,7 @@ Monorepo 主要目录：`packages/`（核心包）、`docs/`、`examples/`、`te
 - [[agent-skills]] — Agent Skill 规范；Mastra 侧能力以 Agents / Tools / MCP / Workflows 为主，可对照 skill 渐进加载思路
 - [[pi]] — 极简终端 Agent harness；Mastra 是应用侧全栈框架，职责与集成面更大
 - [[headroom]] — Agent 上下文压缩层；可与 Mastra 的 context / memory / RAG 能力互补思考
+- [[vercel-ai-gateway]] — Vercel 统一模型网关；Mastra 自带 model routing，应用侧也可把 LLM 调用接到 Gateway / AI SDK
 
 ## 参考
 

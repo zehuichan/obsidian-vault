@@ -74,3 +74,4 @@ cargo build -p xai-grok-pager-bin --release  # release: target/release/xai-grok-
 - 文档：[docs.x.ai/build/overview](https://docs.x.ai/build/overview)
 - 原始剪藏：`raw/2026-07-25-grok-build.md`
 - 同类对照：[[opencode]]、[[pi]]、[[hermes-agent]]、[[agent-skills]]、[[trellis]]
+- 模型调用：[[vercel-ai-gateway]] — Gateway 可用 `xai/grok-4.5` 等 slug 走 Grok，不必直连 xAI

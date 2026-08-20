@@ -27,6 +27,7 @@
 - [[agent-browser]] — 面向 AI Agent 的浏览器自动化 CLI：Rust + CDP daemon、snapshot refs、MCP/skills、会话认证与云浏览器 provider（Vercel Labs, 2026）
 - [[cua]] — computer-use 2.0 开源栈：后台桌面 Drivers（CLI/MCP）、跨 OS Sandbox、Bench/RL 环境与 Apple Silicon Lume 虚拟化（trycua, 2026）
 - [[lean4-skills]] — 面向 AI 编码 Agent 的 Lean 4 定理证明工作流包：prove/review/golf 循环、mathlib 搜索、公理检查与 LSP-first 护栏（Cameron Freer, 2025）
+- [[vercel-ai-gateway]] — Vercel 统一 AI API：一把密钥访问数百个模型（文本/图像/视频/语音/embeddings），零加价、自动 failover，兼容 AI SDK / OpenAI / Anthropic（Vercel, 2026）
 
 ### DevOps & 包管理
 

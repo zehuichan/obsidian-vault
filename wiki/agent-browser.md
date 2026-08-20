@@ -109,4 +109,5 @@ agent-browser skills get core          # 运行时拉取与当前 CLI 匹配的�
 - Skill 目录：[skills.sh/vercel-labs/agent-browser](https://skills.sh/vercel-labs/agent-browser)
 - 原始剪藏：`raw/2026-07-27-agent-browser.md`
 - 同类对照：[[agent-skills]]、[[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]、[[cua]]
+- 同属 Vercel AI 栈：[[vercel-ai-gateway]] — 统一模型网关；agent-browser 是浏览器自动化 CLI
 
