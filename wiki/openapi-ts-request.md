@@ -68,4 +68,4 @@ Mock 基于 mockjs，启动依赖 `@umijs/server`。UniApp 场景推荐自定义
 - npm：[openapi-ts-request](https://www.npmjs.com/package/openapi-ts-request)
 - 使用手册：[Issue #100](https://github.com/openapi-ui/openapi-ts-request/issues/100)
 - 前身致谢：[openapi2typescript](https://github.com/chenshuai2144/openapi2typescript)
-- 同类主题：[[verdaccio]]、[[openspec]]、[[ilha]]
+- 同类主题：[[verdaccio]]、[[openspec]]、[[ilha]]、[[pinia-colada]]（生成纯请求函数后可用 Colada 做 cache / mutation）
