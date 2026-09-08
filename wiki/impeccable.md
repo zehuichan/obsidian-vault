@@ -128,6 +128,7 @@ $ npx impeccable skills update               # 升级 skill 定义
 
 - [[agent-skills]] — Impeccable 是 "Skill 即可移植行为模块" 概念的高完成度范例：一个命名空间、23 子命令、按 register 分支的引用资料、可重定向的 `/pin` 机制、有评估闭环（v2.0 的 15 brief A/B）的开发流程
 - [[open-design]] — 同样是"把 AI 编码助手转化为设计引擎"的开源工作流，但路径不同：Open Design 走 **31 skills + 72 design systems** 的横向铺开（多 skill、多品牌系统、BYOK Web 面板），Impeccable 走 **1 skill × 23 命令 × 双 register** 的纵向打磨（更像"设计语言学的 IDE 扩展"）。两者都是 Apache 2.0、都支持 12 种主流 harness、都把 `DESIGN.md` 当作可移植资产
+- [[diagram-design]] — 同属「反 AI slop 的视觉输出」，但范围收在**图**：4px 网格、单强调色、从网站抽 token；Impeccable 管产品/营销 UI 与 23 条设计命令
 
 ## 风险与局限
 
@@ -143,4 +144,4 @@ $ npx impeccable skills update               # 升级 skill 定义
 - npm：`impeccable`
 - 推特：`@impeccable_ai`
 - 作者：Paul Bakaus（Renaissance Geek）
-- 相关：[[agent-skills]]、[[open-design]]
+- 相关：[[agent-skills]]、[[open-design]]、[[diagram-design]]

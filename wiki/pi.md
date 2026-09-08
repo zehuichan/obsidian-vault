@@ -132,3 +132,4 @@ pi 明确「把 npm 依赖变更当作需审查的代码变更」：直接外部
 - 作者博文：[mariozechner.at](https://mariozechner.at/)（pi 设计理念、「你可能不需要 MCP」）
 - OSS 会话数据集：[badlogicgames/pi-mono on Hugging Face](https://huggingface.co/datasets/badlogicgames/pi-mono)
 - 同类对照：[[hermes-agent]]、[[trellis]]、[[openspec]]、[[agent-skills]]、[[llm-knowledge-bases]]
+- 可安装 Skill 实例：[[diagram-design]] — README 把 Pi 列为宿主（`pi install` + `/skill:diagram-design`）

@@ -44,6 +44,7 @@ skills.sh 安装量约 27.6K（剪藏时）。本机路径：`~/.agents/skills/e
 ## 相关链接
 
 - [[excalidraw]] — 白板产品与 `.excalidraw` 开放格式
+- [[diagram-design]] — 另一条出图路径：编辑级自包含 HTML/SVG，39 种类型，重绘 Mermaid/draw.io
 - [[agent-skills]] — Skill 结构与 Generator 模式
 - [skills.sh 页面](https://skills.sh/github/awesome-copilot/excalidraw-diagram-generator)
 - [awesome-copilot](https://github.com/github/awesome-copilot)

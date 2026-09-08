@@ -69,4 +69,5 @@ curl -fsSL https://opencode.ai/install | bash
 - 文档：[opencode.ai/docs](https://opencode.ai/docs)
 - 原始剪藏：`raw/2026-07-21-opencode.md`
 - 同类对照：[[pi]]、[[hermes-agent]]、[[trellis]]、[[openspec]]、[[agent-skills]]
+- 可叠加 Skill：[[diagram-design]] — OpenCode 无 marketplace 包，需拷贝/symlink `skills/diagram-design/`
 - 模型入口：[[vercel-ai-gateway]] — 可用 Vercel AI Gateway 做统一 provider / 一把 key 切模型

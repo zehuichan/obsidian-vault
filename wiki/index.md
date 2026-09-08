@@ -12,6 +12,7 @@
 - [[agent-skills]] — Agent Skill 的规范结构、渐进式加载、触发机制、构建方法和常见设计模式
 - [[agency-agents]] — 230+ 人格化专业 Agent 花名册（The Agency），可安装到 Claude Code / Cursor / Codex / OpenCode 等（msitarzewski, 2026）
 - [[impeccable]] — 把 23 条命令 + 27 条反模式检测 + brand/product 双 register 编入 AI 编码助手的设计 Skill 包（Paul Bakaus, 2026）
+- [[diagram-design]] — 39 种编辑级 HTML/SVG 图的 Agent Skill：从网站抽品牌、重绘 draw.io/Mermaid、无阴影无 Mermaid slop（Cathryn Lavery, 2026）
 - [[openspec]] — 轻量级 spec-driven 框架：v1.3 引入 `/opsx:propose|apply|archive` artifact-guided 工作流 + Dashboard + profile 系统，仓库内活规格与变更提案包，跨 25+ Agent 的规划层（Fission AI, 2026）
 - [[codegraph]] — 本地预索引代码知识图谱 MCP 服务，为 Claude Code/Cursor 等 Agent 提供符号搜索与调用链分析，平均节省 35% 成本（colbymchenry, 2026）
 - [[headroom]] — 面向 AI Agent 的本地优先上下文压缩层，通过 library / proxy / wrapper / MCP 压缩工具输出、日志、RAG、文件和历史对话，宣称节省 47%–92% 输入 token（Headroom Labs, 2026）
@@ -52,3 +53,4 @@
 - [[hyperframes]] — HeyGen 开源 HTML→确定性 MP4 框架：可 seek 动画 + Agent skills（19）+ CLI/Lambda/Catalog，面向编码 Agent 写视频（HeyGen, 2026）
 - [[excalidraw]] — 开源手绘风格虚拟白板：无限画布、协作与 E2E 加密，开放 `.excalidraw` JSON 格式（excalidraw.com）
 - [[excalidraw-diagram-generator]] — 从自然语言生成 `.excalidraw` 的 Agent Skill，覆盖九类图 + 模板/脚本（github/awesome-copilot）
+- [[diagram-design]] — 编辑级自包含 HTML+SVG 图表 Skill：39 种类型、品牌 onboard、draw.io/Mermaid 重绘（cathrynlavery, 2026）

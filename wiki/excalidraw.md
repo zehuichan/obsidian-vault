@@ -33,11 +33,12 @@ npm install react react-dom @excalidraw/excalidraw
 
 ### 与 Agent 出图
 
-自然语言生成 `.excalidraw` 文件可用 [[excalidraw-diagram-generator]] Skill：输出可直接拖到 excalidraw.com 或 VS Code 扩展打开。Skill 约定属于 [[agent-skills]] 中的 Generator 模式。
+自然语言生成 `.excalidraw` 文件可用 [[excalidraw-diagram-generator]] Skill：输出可直接拖到 excalidraw.com 或 VS Code 扩展打开。Skill 约定属于 [[agent-skills]] 中的 Generator 模式。刊用级、非手绘风的 HTML/SVG 图见 [[diagram-design]]。
 
 ## 相关链接
 
 - [[excalidraw-diagram-generator]] — 从自然语言生成 `.excalidraw` 的 Agent Skill
+- [[diagram-design]] — 编辑级 HTML/SVG 图表 Skill（非手绘风、39 种类型）
 - [[agent-skills]] — Skill 规范与 Generator 等设计模式
 - [excalidraw.com](https://excalidraw.com)
 - [GitHub](https://github.com/excalidraw/excalidraw)

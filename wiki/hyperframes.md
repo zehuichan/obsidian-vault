@@ -81,6 +81,7 @@ npx hyperframes render    # 出 MP4
 - [[agent-skills]] — Skill 规范与渐进加载；HyperFrames 用 router + on-demand creation workflows 实践同一思路
 - [[open-design]] — 官方指南含 Open Design handoff；`frame.md` / `DESIGN.md` 与 Open Design 的设计系统 Markdown 哲学相邻
 - [[impeccable]] — 设计向 Agent Skill 包；可与 HyperFrames 的 creative / frame.md 层对照
+- [[diagram-design]] — 静态/可选动效的编辑级 HTML+SVG 图；HyperFrames 则把 HTML 编成确定性 MP4
 - [[mastra]] — 同为 TypeScript Agent 生态；Mastra 偏应用/工作流，HyperFrames 偏 HTML→视频渲染
 
 ## 参考

@@ -112,6 +112,7 @@ Helper 脚本（sorry 分析、公理扫描、mathlib 搜索、golf 检测等）
 - [[agent-skills]] — Skill 规范结构、渐进式加载与设计模式
 - [[matt-pocock-skills]] — 另一套可组合工程 Skill
 - [[impeccable]] — 设计向 Skill 包
+- [[diagram-design]] — 图表向 Skill 包（编辑级 HTML/SVG）
 - [[opencode]] — 发现 `.agents/skills` 的开源编码 Agent
 - [[pi]] — 可安装第三方 skill 的极简 harness
 - [[codegraph]] — 另一类给 Agent 的代码理解增强（符号图 vs 证明状态）

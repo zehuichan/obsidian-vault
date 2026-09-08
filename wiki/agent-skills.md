@@ -84,6 +84,7 @@ Skill-Creator 的完整流程很严谨，但也有明显成本：评估和 descr
 - [[open-design]] — Skill-driven 设计工作流的另一条路径（31 skills + 72 design systems）
 - [[agent-browser]] — 用 `npx skills add` 接入的浏览器自动化 CLI；skill stub 再 `skills get` 拉取与 CLI 版本同步的工作流
 - [[lean4-skills]] — 按该规范分发的 Lean 4 定理证明工作流包：共享证明循环 + mathlib/LSP-first + 三档安装
+- [[diagram-design]] — 渐进加载 Generator 的完整落地：39 种编辑级 HTML/SVG 图、按类型拆 `references/`、draw.io/Mermaid 重绘
 
 ## 参考
 
