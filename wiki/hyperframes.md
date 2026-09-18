@@ -83,6 +83,7 @@ npx hyperframes render    # 出 MP4
 - [[impeccable]] — 设计向 Agent Skill 包；可与 HyperFrames 的 creative / frame.md 层对照
 - [[diagram-design]] — 静态/可选动效的编辑级 HTML+SVG 图；HyperFrames 则把 HTML 编成确定性 MP4
 - [[mastra]] — 同为 TypeScript Agent 生态；Mastra 偏应用/工作流，HyperFrames 偏 HTML→视频渲染
+- [[pascal-editor]] — 同样用 CLI + MCP + skills 让 Agent 操作创作工具，输出是可编辑 3D 建筑模型而不是 MP4
 
 ## 参考
 
