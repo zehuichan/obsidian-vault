@@ -52,6 +52,7 @@
 - [[pascal-editor]] — 开源本地优先 3D 建筑编辑器：R3F + WebGPU，CLI 管本地 SQLite 项目，MCP + `pascal-3d` / `furniture-fit` skills 让 Agent 读写同一场景（pascalorg, 2026）
 - [[opencut]] — 开源 CapCut 替代品：Web/桌面/移动视频编辑器；classic 可用，main 正以 Rust core + plugin-first + MCP 从零重写（OpenCut-app, 2026）
 - [[hyperframes]] — HeyGen 开源 HTML→确定性 MP4 框架：可 seek 动画 + Agent skills（19）+ CLI/Lambda/Catalog，面向编码 Agent 写视频（HeyGen, 2026）
+- [[hypit]] — 面向编码 Agent 的开源视频生产框架：SVML 把爆款写成可重跑 workflow，词锚定字幕/B-roll/特效，一条命令出大量变体（hypit-ai, 2026）
 - [[excalidraw]] — 开源手绘风格虚拟白板：无限画布、协作与 E2E 加密，开放 `.excalidraw` JSON 格式（excalidraw.com）
 - [[excalidraw-diagram-generator]] — 从自然语言生成 `.excalidraw` 的 Agent Skill，覆盖九类图 + 模板/脚本（github/awesome-copilot）
 - [[diagram-design]] — 编辑级自包含 HTML+SVG 图表 Skill：39 种类型、品牌 onboard、draw.io/Mermaid 重绘（cathrynlavery, 2026）

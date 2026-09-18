@@ -70,3 +70,4 @@ moon run desktop:dev      # 见 apps/desktop/README.md
 - [[hermes-agent]] — 开源 AI Agent，适合想象「Agent + 视频编辑 MCP」的使用场景
 - [[ilha]] — 同类「小而可嵌入」的前端架构参考（同为现代 TS 开源库生态）
 - [[pascal-editor]] — 另一条已落地的「开源编辑器 + 本地 CLI + MCP + skills」路线，介质是 3D 建筑场景而非视频
+- [[hypit]] — 不走交互式时间线，而是用 SVML 把爆款视频写成可重跑的 Agent workflow

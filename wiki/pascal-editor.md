@@ -25,7 +25,7 @@ Pascal Editor 是一个开源、本地优先的 3D 建筑编辑器：用 React T
 
 它不是通用 3D 建模器，而是面向建筑/室内的 BIM-lite：Site → Building → Level，下面挂 Wall、Slab、Ceiling、Roof、Zone、Scan、Guide，以及门窗灯具等 Item。Topics 含 `architecture`、`bim`、`cad`、`floorplan`、`mcp`、`react-three-fiber`。
 
-这与 [[opencut]]、[[hyperframes]] 同属「创作工具 + Agent MCP/skills」路线，只是介质从视频换成了可编辑的 3D 建筑场景。
+这与 [[opencut]]、[[hyperframes]]、[[hypit]] 同属「创作工具 + Agent MCP/skills」路线，只是介质从视频换成了可编辑的 3D 建筑场景。
 
 ### 本地运行与 MCP
 

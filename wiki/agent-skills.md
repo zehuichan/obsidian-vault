@@ -86,6 +86,7 @@ Skill-Creator 的完整流程很严谨，但也有明显成本：评估和 descr
 - [[lean4-skills]] — 按该规范分发的 Lean 4 定理证明工作流包：共享证明循环 + mathlib/LSP-first + 三档安装
 - [[diagram-design]] — 渐进加载 Generator 的完整落地：39 种编辑级 HTML/SVG 图、按类型拆 `references/`、draw.io/Mermaid 重绘
 - [[pascal-editor]] — 3D 建筑编辑器把同一 `skills/` 复用到 skills.sh / Claude / Cursor / Codex / Gemini，工具动作走本地或托管 MCP
+- [[hypit]] — `/hypit` Skill 教 Agent 克隆视频 workflow；生产知识与 `@hypit/hypit` CLI 分通道安装
 
 ## 参考
 
