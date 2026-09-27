@@ -60,11 +60,11 @@ const jsonSchema = await toJsonSchema(schema);
 
 ### 与知识库其他条目的关系
 
-JSON Schema 在本库是**输出**；在 [[openapi-ts-request]] 中是**输入**（从 OpenAPI 生成 TS/请求/JSON Schemas）。二者可组成「校验 schema ↔ 契约文档」链路的两端。私有包分发可配合 [[verdaccio]]。
+JSON Schema 在本库是**输出**；在 [[openapi-ts-request]] 中是**输入**（从 OpenAPI 生成 TS/请求/JSON Schemas）。二者可组成「校验 schema ↔ 契约文档」链路的两端。若把 JSON Schema 当作源语言，再编译成可缓存、可灰度的运行时，见 [[json-schema-dynamic-data-model]]。私有包分发可配合 [[verdaccio]]。
 
 ## 相关链接
 
 - 仓库：[standard-community/standard-json](https://github.com/standard-community/standard-json)
 - npm：[@standard-community/standard-json](https://www.npmjs.com/package/@standard-community/standard-json)
 - Standard Schema 规范：[@standard-schema/spec](https://github.com/standard-schema/standard-schema)
-- 同类主题：[[openapi-ts-request]]、[[verdaccio]]
+- 同类主题：[[openapi-ts-request]]、[[json-schema-dynamic-data-model]]、[[verdaccio]]

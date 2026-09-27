@@ -35,6 +35,10 @@
 - [[sentry]] — 开发者优先的错误追踪与 APM 平台：Python/Django 后端 + React 前端 monorepo，20+ 语言 SDK，Fair Source 许可，支持 SaaS 与 self-hosted（getsentry, 2026）
 - [[verdaccio]] — 轻量级 Node.js 私有 npm 代理 registry：零配置本地运行、代理缓存 npmjs.org、多 registry 聚合、覆盖公共包，支持 Docker / Helm 部署（Verdaccio Community, 2026）
 
+### 架构 & 数据平台
+
+- [[json-schema-dynamic-data-model]] — 把 JSON Schema 当源语言，编译成可缓存、可灰度、可观测的动态数据模型运行时：JSONB 事实 + 物化列/投影、Outbox、三级缓存与字段级安全（微信公众号, 2026）
+
 ### 语言 & 运行时
 
 - [[porffor]] — 从零实现的 100% AOT JS/TS 编译器：编成 Wasm / C / 原生二进制，无解释器与 JIT；自研 2c 做 Wasm→C（CanadaHonk, 2026）
