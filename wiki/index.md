@@ -26,6 +26,7 @@
 - [[matt-pocock-skills]] — 「Skills For Real Engineers」：可组合的 Agent Skills，用 grilling / CONTEXT.md / TDD / deep modules 修复对齐、啰嗦、无反馈与泥球架构（Matt Pocock, 2026）
 - [[grok-build]] — SpaceXAI 开源终端 AI 编码 Agent（`grok`）：Rust TUI + agent runtime，支持交互/headless/ACP，含 MCP、skills、hooks、sandbox（xai-org, 2026）
 - [[agent-browser]] — 面向 AI Agent 的浏览器自动化 CLI：Rust + CDP daemon、snapshot refs、MCP/skills、会话认证与云浏览器 provider（Vercel Labs, 2026）
+- [[e2e-testing-framework]] — TesterArmy 开源的 Web/移动端 E2E 框架：自然语言目标与 locator 断言写在同一条测试里，验证通过的 `agent.act` 可回放且不再调模型（tester-army, 2026）
 - [[cua]] — computer-use 2.0 开源栈：后台桌面 Drivers（CLI/MCP）、跨 OS Sandbox、Bench/RL 环境与 Apple Silicon Lume 虚拟化（trycua, 2026）
 - [[lean4-skills]] — 面向 AI 编码 Agent 的 Lean 4 定理证明工作流包：prove/review/golf 循环、mathlib 搜索、公理检查与 LSP-first 护栏（Cameron Freer, 2025）
 - [[reviewbench]] — GitHub 开源的 AI 代码审查离线基准：219 个真实 PR 的人工复核 golden set，用 grounded / augmented precision 与 recall 评估审查 Agent（review-bench, 2026）

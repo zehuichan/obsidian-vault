@@ -91,6 +91,7 @@ lume run macos-tahoe
 ## 与本知识库的关系
 
 - 与 [[agent-browser]]：后者偏浏览器 CDP/snapshot refs；Cua Drivers 偏**原生桌面后台控制**，Sandbox 则覆盖完整 OS 环境
+- 与 [[e2e-testing-framework]]：e2e 把自然语言目标写进可回放的 Web/移动测试；Cua 提供桌面驱动与沙箱，不是测试 runner
 - 与 [[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]：编码 Agent 可接 Cua Drivers（CLI/MCP）获得本机桌面能力，或用 Sandbox 做隔离执行环境
 - 与 [[agent-skills]]：Drivers 侧提供可选 agent skill pack（见 `libs/cua-driver`）
 

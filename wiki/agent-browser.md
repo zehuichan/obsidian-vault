@@ -90,6 +90,7 @@ agent-browser skills get core          # 运行时拉取与当前 CLI 匹配的�
 - 与 [[opencode]]、[[grok-build]]、[[pi]]、[[hermes-agent]]：编码 Agent 可把本 CLI 当浏览器工具层；OpenCode 等在 skill 安装列表中被明确提及
 - 与 [[codegraph]]、[[headroom]]：可分别补「代码结构」与「工具输出压缩」；agent-browser 的 snapshot/MCP 输出本身也可用 Headroom 一类压缩层控制上下文
 - 与 [[cua]]：浏览器层 vs 桌面/OS 层——agent-browser 走 CDP + refs；Cua Drivers 做后台原生桌面控制，Sandbox/Bench/Lume 覆盖完整 computer-use 栈
+- 与 [[e2e-testing-framework]]：e2e 是带 runner 的 agentic E2E（Playwright / agent-device），验证过的动作可缓存回放；agent-browser 是给编码 Agent 用的浏览器 CLI
 
 
 

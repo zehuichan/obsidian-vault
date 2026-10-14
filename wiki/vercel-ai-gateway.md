@@ -100,6 +100,7 @@ Base URL 因协议略有不同：
 - [[mastra]] — TypeScript Agent 框架，自带 model routing；应用侧可与 AI SDK / Gateway 叠用
 - [[opencode]] — 开源编码 Agent，多 provider；可用 Gateway 做统一模型入口（Vercel 有 OpenCode + Gateway 的实践文）
 - [[agent-browser]] — 同属 Vercel Labs 的 Agent 工具链（浏览器自动化），可与 Gateway 上的 coding agents 对照
+- [[e2e-testing-framework]] — TesterArmy 的 E2E 框架；quickstart 默认用 AI SDK 的 `gateway()` 接模型
 - [[grok-build]] — Grok 模型可通过 Gateway 的 `xai/...` slug 调用
 - [[headroom]] — 上下文压缩，降低经 Gateway 发出的输入 token
 
