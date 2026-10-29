@@ -31,6 +31,7 @@
 - [[lean4-skills]] — 面向 AI 编码 Agent 的 Lean 4 定理证明工作流包：prove/review/golf 循环、mathlib 搜索、公理检查与 LSP-first 护栏（Cameron Freer, 2025）
 - [[reviewbench]] — GitHub 开源的 AI 代码审查离线基准：219 个真实 PR 的人工复核 golden set，用 grounded / augmented precision 与 recall 评估审查 Agent（review-bench, 2026）
 - [[vercel-ai-gateway]] — Vercel 统一 AI API：一把密钥访问数百个模型（文本/图像/视频/语音/embeddings），零加价、自动 failover，兼容 AI SDK / OpenAI / Anthropic（Vercel, 2026）
+- [[design-agent]] — LangChain 开源的团队设计 Agent（Content Studio）：基于 Deep Agents + Managed Deep Agents，Slack 里对话出品牌合规的图/deck/图表/短片；每线程独立沙箱、35 个 skills、品牌即代码 + brand-lint 等闸门、异步 helper 与唤醒 harness、密钥不进沙箱（langchain-ai, 2026）
 
 ### DevOps & 包管理
 
@@ -62,3 +63,4 @@
 - [[excalidraw]] — 开源手绘风格虚拟白板：无限画布、协作与 E2E 加密，开放 `.excalidraw` JSON 格式（excalidraw.com）
 - [[excalidraw-diagram-generator]] — 从自然语言生成 `.excalidraw` 的 Agent Skill，覆盖九类图 + 模板/脚本（github/awesome-copilot）
 - [[diagram-design]] — 编辑级自包含 HTML+SVG 图表 Skill：39 种类型、品牌 onboard、draw.io/Mermaid 重绘（cathrynlavery, 2026）
+- [[design-agent]] — 团队级设计 Agent：Slack 线程 → 每线程沙箱（Chrome/FFmpeg/HyperFrames/D2）→ 品牌 token 约束 + 视觉自检 + 代码闸门 → 成品图/deck/图表/视频，Apache-2.0（LangChain, 2026）

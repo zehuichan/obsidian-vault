@@ -85,6 +85,7 @@ npx hyperframes render    # 出 MP4
 - [[mastra]] — 同为 TypeScript Agent 生态；Mastra 偏应用/工作流，HyperFrames 偏 HTML→视频渲染
 - [[pascal-editor]] — 同样用 CLI + MCP + skills 让 Agent 操作创作工具，输出是可编辑 3D 建筑模型而不是 MP4
 - [[hypit]] — 用 SVML 克隆整条视频 workflow；本地渲染层直接走 HyperFrames + 无头 Chromium
+- [[design-agent]] — LangChain 开源的团队设计 Agent：把 HyperFrames 内置进每线程沙箱作视频引擎，vendored 其 skills，并用渲染 watcher 解析 `@hf-progress` 进度行
 
 ## 参考
 
