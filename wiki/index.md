@@ -33,6 +33,7 @@
 - [[reviewbench]] — GitHub 开源的 AI 代码审查离线基准：219 个真实 PR 的人工复核 golden set，用 grounded / augmented precision 与 recall 评估审查 Agent（review-bench, 2026）
 - [[vercel-ai-gateway]] — Vercel 统一 AI API：一把密钥访问数百个模型（文本/图像/视频/语音/embeddings），零加价、自动 failover，兼容 AI SDK / OpenAI / Anthropic（Vercel, 2026）
 - [[design-agent]] — LangChain 开源的团队设计 Agent（Content Studio）：基于 Deep Agents + Managed Deep Agents，Slack 里对话出品牌合规的图/deck/图表/短片；每线程独立沙箱、35 个 skills、品牌即代码 + brand-lint 等闸门、异步 helper 与唤醒 harness、密钥不进沙箱（langchain-ai, 2026）
+- [[dsh-superagent]] — DeepSeek 公开的研究原型：绑定单个 GitHub 仓库的主动式编码 Agent（DeepSeek Harness bundle），用 Source/Eval/Mandate/Ticket 把「少占人的注意力」做成授权与面板的硬规则；监听 GitHub 与可选的飞书，默认 observe 只记录主动工作（deepseek-ai, 2026）
 
 ### DevOps & 包管理
 

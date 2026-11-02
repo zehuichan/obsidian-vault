@@ -105,7 +105,7 @@ uv run mda deploy
 ## 要点与启示
 
 1. **「代码可数的交给代码」**：颜色、字体、对比度、尺寸、图表数学、结构一致性全部机器校验，把主观的「像不像 AI」转为可验证的契约，是它宣称「不像 AI 做的」的核心。
-2. **harness 即产品**：真正的复杂度不在 prompt，而在事件总线、唤醒回执、心跳 ledger、可回放 transcript、memoized 流水线——长任务 Agent 的工程化模式，与 [[mastra]] 的工作流/HITL、[[hermes-agent]] 的闭环学习属同一问题域。
+2. **harness 即产品**：真正的复杂度不在 prompt，而在事件总线、唤醒回执、心跳 ledger、可回放 transcript、memoized 流水线——长任务 Agent 的工程化模式，与 [[mastra]] 的工作流/HITL、[[hermes-agent]] 的闭环学习、[[dsh-superagent]] 的授权与工单运行时属同一问题域。
 3. **Skills 是知识与流程的载体，但不是权限**：一边用 35 个 skill 承载工作流，一边让能力由代码授予，这个边界是对 [[agent-skills]] 范式的重要补充。
 4. **面向团队而非个人**：Slack 线程 + 团队/个人两层记忆 + 每人以自己身份连接 MCP，使它更像「共享设计师」，而非单人 coding agent 的外挂。
 5. **视频作为代码**：整条视频链建立在 [[hyperframes]] 的「HTML + 可 seek 时间线 → 确定性 MP4」之上，使分镜、animatic、制作可以由多个 helper 并行、可审查地完成。
@@ -117,7 +117,7 @@ uv run mda deploy
 - 同类「把编码 Agent 变设计引擎」：[[open-design]]（本地 BYOK，31 skills + 72 design systems）、[[impeccable]]（单 skill × 23 命令 × 双 register）——相比之下 Design Agent 走「团队部署 + 沙箱 + 代码闸门」路线，不依赖你的本地编码 Agent
 - 图类 skill：[[diagram-design]]、[[excalidraw-diagram-generator]]
 - 视频生产对照：[[hypit]]（SVML workflow 化的视频生产框架）
-- Agent 框架与 harness 对照：[[mastra]]、[[hermes-agent]]、[[pi]]
+- Agent 框架与 harness 对照：[[mastra]]、[[hermes-agent]]、[[pi]]、[[dsh-superagent]]
 - 评测对照：[[reviewbench]]（Agent 评测基准）；Design Agent 自带 `design-agent-evals` skill，改动前后跑 evals 对比
 - 上下文与成本：[[headroom]]（上下文压缩层）与其 prompt-cache / 结果落文件 / 工具延迟加载的思路相通
 - 概念：[[agent-skills]]、[[llm-knowledge-bases]]（Markdown 文件驱动 LLM 行为的哲学）

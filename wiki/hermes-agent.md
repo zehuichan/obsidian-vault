@@ -71,6 +71,7 @@ Hermes 的前身是 OpenClaw。通过 `hermes claw migrate` 可自动导入设�
 
 - [[llm-knowledge-bases]] — LLM 驱动的知识管理方法论，Hermes Agent 的记忆和 skill 系统是这一理念的实践
 - [[pi]] — 最接近的同类：同为终端、模型无关、走 agentskills.io skill 标准、鼓励公开 OSS 会话；Hermes 偏自我改进闭环 + 多平台网关，pi 偏极简内核 + 可自改的 TypeScript 扩展
+- [[dsh-superagent]] — 同样代表团队在 GitHub（以及飞书）里行动，把「何时开口、何时接单」做成宿主强制的授权与注意力规则
 
 ## 参考
 

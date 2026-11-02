@@ -98,5 +98,6 @@ source: "https://docs.trytrellis.app/"
 - 文档索引（给 LLM 用）：[llms.txt](https://docs.trytrellis.app/llms.txt)
 - 安装：`npm install -g @mindfoldhq/trellis@beta`
 - 同范式概念：[[openspec]]、[[llm-knowledge-bases]]、[[agent-skills]]
+- [[dsh-superagent]] — 同样面向团队的编码 Agent 运行时：Trellis 把 spec/task 固化进 git，dsh-superagent 把工单、Mandate 和来源事件固化进 SQLite，并由宿主强制执行
 - 同生态 Skill 包：[[impeccable]]、[[open-design]]
 - 底层基建参考：[[codegraph]]（结构化代码索引，可与 Trellis 的 spec/task 体系互补）
