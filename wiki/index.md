@@ -24,6 +24,7 @@
 - [[mastra]] — 现代 TypeScript AI 应用/Agent 框架：模型路由、Agents、图工作流、HITL、记忆/RAG、MCP、evals/observability，可嵌 React/Next/Node 或独立部署（YC W25）
 - [[opencode]] — 开源 AI 编码 Agent：终端 / 桌面 / IDE，LSP + 多会话 + 会话分享，75+ 模型提供商，可复用 Copilot / ChatGPT 订阅，隐私优先不存储代码上下文（Anomaly, 2026）
 - [[matt-pocock-skills]] — 「Skills For Real Engineers」：可组合的 Agent Skills，用 grilling / CONTEXT.md / TDD / deep modules 修复对齐、啰嗦、无反馈与泥球架构（Matt Pocock, 2026）
+- [[addy-osmani-agent-skills]] — 生产级工程技能包：25 个覆盖 Define→Ship 的 skill、9 条阶段命令、4 个评审人格、反合理化表与仓库内三层 eval（Addy Osmani, 2026）
 - [[grok-build]] — SpaceXAI 开源终端 AI 编码 Agent（`grok`）：Rust TUI + agent runtime，支持交互/headless/ACP，含 MCP、skills、hooks、sandbox（xai-org, 2026）
 - [[agent-browser]] — 面向 AI Agent 的浏览器自动化 CLI：Rust + CDP daemon、snapshot refs、MCP/skills、会话认证与云浏览器 provider（Vercel Labs, 2026）
 - [[e2e-testing-framework]] — TesterArmy 开源的 Web/移动端 E2E 框架：自然语言目标与 locator 断言写在同一条测试里，验证通过的 `agent.act` 可回放且不再调模型（tester-army, 2026）

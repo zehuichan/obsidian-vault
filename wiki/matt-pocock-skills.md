@@ -87,10 +87,12 @@ npx skills@latest add mattpocock/skills
 - **[[ponytail]]** — 压缩实现层代码量；Matt 更强调对齐、领域语言、TDD 与架构 deepening
 - **[[impeccable]]** — 设计质量注入；本仓库是工程纪律注入
 - **[[agent-skills]]** — 规范与模式层；本仓库是按该标准分发的一套实战 skill 集合
+- **[[addy-osmani-agent-skills]]** — 另一套按阶段覆盖 Define→Ship 的工程包；grilling 仍是本仓库更尖的需求工具，对方用 `interview-me` 接近同一意图，并自带仓库内 eval
 
 ## 相关链接
 
 - [[agent-skills]] — Skill 规范结构、渐进式加载与设计模式
+- [[addy-osmani-agent-skills]] — 全生命周期工程技能包；官方对比文把本仓库当作需求拷问与日常短循环的参照
 - [[openspec]] — 另一路 spec-driven 规划层
 - [[trellis]] — 团队级 Agent 脚手架 + 仓库内 wiki
 - [[ponytail]] — 最小可用代码规则集
