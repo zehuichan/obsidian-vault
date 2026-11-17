@@ -36,6 +36,7 @@
 - [[dsh-superagent]] — DeepSeek 公开的研究原型：绑定单个 GitHub 仓库的主动式编码 Agent（DeepSeek Harness bundle），用 Source/Eval/Mandate/Ticket 把「少占人的注意力」做成授权与面板的硬规则；监听 GitHub 与可选的飞书，默认 observe 只记录主动工作（deepseek-ai, 2026）
 - [[effective-context-engineering]] — Context 是有限的注意力预算：找最小高信号 token 集合；system prompt 找对高度、精简工具、即时检索与混合策略，长时任务靠 compaction / 结构化笔记 / sub-agent（Anthropic, 2025）
 - [[effective-harnesses-long-running-agents]] — 跨多个 context window 的 Agent harness：initializer + coding agent，JSON 功能清单、一次一个功能、`init.sh` / progress 文件 / git 交接、浏览器端到端自测（Justin Young, Anthropic, 2025）
+- [[harness-design-long-running-apps]] — GAN 式 generator / evaluator + planner 三 Agent harness：sprint contract、Playwright 评估器、评分标准编码设计品味，及随模型升级逐个拆组件（$9/20 分钟 vs $200/6 小时对照；DAW 运行 $124.70）（Anthropic, 2026）
 
 ### DevOps & 包管理
 
