@@ -88,11 +88,13 @@ Skill-Creator 的完整流程很严谨，但也有明显成本：评估和 descr
 - [[pascal-editor]] — 3D 建筑编辑器把同一 `skills/` 复用到 skills.sh / Claude / Cursor / Codex / Gemini，工具动作走本地或托管 MCP
 - [[hypit]] — `/hypit` Skill 教 Agent 克隆视频 workflow；生产知识与 `@hypit/hypit` CLI 分通道安装
 - [[addy-osmani-agent-skills]] — 按该规范打包的整条 SDLC：25 skill、阶段命令、反合理化表与三层 eval（Addy Osmani）
+- [[equipping-agents-with-agent-skills]] — Anthropic 官方原文：设计动机、与确定性代码执行结合、官方开发建议与安全提示
 
 ## 参考
 
 - 原文: https://mp.weixin.qq.com/s/LCpiLyLnRn5WyuHpribyHw
 - Agent Skills 开放规范: https://agentskills.io/specification
+- Anthropic 官方介绍: https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills
 - Anthropic Skills 仓库: https://github.com/anthropics/skills
 - Superpowers 框架: https://github.com/obra/superpowers
 - Awesome Agent Skills: https://github.com/VoltAgent/awesome-agent-skills

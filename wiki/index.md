@@ -38,6 +38,7 @@
 - [[effective-harnesses-long-running-agents]] — 跨多个 context window 的 Agent harness：initializer + coding agent，JSON 功能清单、一次一个功能、`init.sh` / progress 文件 / git 交接、浏览器端到端自测（Justin Young, Anthropic, 2025）
 - [[harness-design-long-running-apps]] — GAN 式 generator / evaluator + planner 三 Agent harness：sprint contract、Playwright 评估器、评分标准编码设计品味，及随模型升级逐个拆组件（$9/20 分钟 vs $200/6 小时对照；DAW 运行 $124.70）（Anthropic, 2026）
 - [[agent-memory-components]] — Agent 记忆的组成与「dreaming」：CL-Bench 学习闭环、Pokémon 中的显著性判断、让 Claude 自己判断记什么，以及纠错、建 wiki、提升到顶层、聚焦目标、补缺口五种用法（Lance Martin, Anthropic, 2026）
+- [[equipping-agents-with-agent-skills]] — Agent Skills 官方介绍：三层渐进式披露、与确定性代码执行结合（PDF Skill 例）、从评估起步的开发建议、安全审计提示与路线图（Anthropic, 2025）
 
 ### DevOps & 包管理
 
