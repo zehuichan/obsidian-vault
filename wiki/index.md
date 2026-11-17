@@ -40,6 +40,7 @@
 - [[agent-memory-components]] — Agent 记忆的组成与「dreaming」：CL-Bench 学习闭环、Pokémon 中的显著性判断、让 Claude 自己判断记什么，以及纠错、建 wiki、提升到顶层、聚焦目标、补缺口五种用法（Lance Martin, Anthropic, 2026）
 - [[equipping-agents-with-agent-skills]] — Agent Skills 官方介绍：三层渐进式披露、与确定性代码执行结合（PDF Skill 例）、从评估起步的开发建议、安全审计提示与路线图（Anthropic, 2025）
 - [[demystifying-agent-evals]] — Agent 评估方法：task / trial / grader / transcript / outcome 术语，代码、模型、人工三类 grader，pass@k 与 pass^k，从 0 到 1 的 8 步路线图及与生产监控、A/B、人工研究的组合（Anthropic, 2026）
+- [[anthropic-learning-path]] — 追踪 Claude Code / Agent 最新范式的 Anthropic 官方阅读路径：Engineering（24 篇，按 harness / 上下文与记忆 / 评估 / 安全分组）→ Claude Code 文档 → Claude 博客 → News 信号，含精读顺序与本库对照（Anthropic, 2026）
 
 ### DevOps & 包管理
 
