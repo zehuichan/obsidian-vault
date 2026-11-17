@@ -39,6 +39,7 @@
 - [[harness-design-long-running-apps]] — GAN 式 generator / evaluator + planner 三 Agent harness：sprint contract、Playwright 评估器、评分标准编码设计品味，及随模型升级逐个拆组件（$9/20 分钟 vs $200/6 小时对照；DAW 运行 $124.70）（Anthropic, 2026）
 - [[agent-memory-components]] — Agent 记忆的组成与「dreaming」：CL-Bench 学习闭环、Pokémon 中的显著性判断、让 Claude 自己判断记什么，以及纠错、建 wiki、提升到顶层、聚焦目标、补缺口五种用法（Lance Martin, Anthropic, 2026）
 - [[equipping-agents-with-agent-skills]] — Agent Skills 官方介绍：三层渐进式披露、与确定性代码执行结合（PDF Skill 例）、从评估起步的开发建议、安全审计提示与路线图（Anthropic, 2025）
+- [[demystifying-agent-evals]] — Agent 评估方法：task / trial / grader / transcript / outcome 术语，代码、模型、人工三类 grader，pass@k 与 pass^k，从 0 到 1 的 8 步路线图及与生产监控、A/B、人工研究的组合（Anthropic, 2026）
 
 ### DevOps & 包管理
 
