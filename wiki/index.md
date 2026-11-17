@@ -35,6 +35,7 @@
 - [[design-agent]] — LangChain 开源的团队设计 Agent（Content Studio）：基于 Deep Agents + Managed Deep Agents，Slack 里对话出品牌合规的图/deck/图表/短片；每线程独立沙箱、35 个 skills、品牌即代码 + brand-lint 等闸门、异步 helper 与唤醒 harness、密钥不进沙箱（langchain-ai, 2026）
 - [[dsh-superagent]] — DeepSeek 公开的研究原型：绑定单个 GitHub 仓库的主动式编码 Agent（DeepSeek Harness bundle），用 Source/Eval/Mandate/Ticket 把「少占人的注意力」做成授权与面板的硬规则；监听 GitHub 与可选的飞书，默认 observe 只记录主动工作（deepseek-ai, 2026）
 - [[effective-context-engineering]] — Context 是有限的注意力预算：找最小高信号 token 集合；system prompt 找对高度、精简工具、即时检索与混合策略，长时任务靠 compaction / 结构化笔记 / sub-agent（Anthropic, 2025）
+- [[effective-harnesses-long-running-agents]] — 跨多个 context window 的 Agent harness：initializer + coding agent，JSON 功能清单、一次一个功能、`init.sh` / progress 文件 / git 交接、浏览器端到端自测（Justin Young, Anthropic, 2025）
 
 ### DevOps & 包管理
 
