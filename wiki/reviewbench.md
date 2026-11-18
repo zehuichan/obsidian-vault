@@ -151,3 +151,4 @@ npm run judge -- \
 - [[codegraph]] — 本地代码知识图谱，给审查 Agent 提供调用链和符号上下文
 - [[agent-skills]] — Agent Skill 规范；ReviewBench 的适配器是另一类「薄封装」接口
 - [[ponytail]] — 约束 Agent 少写代码的规则集，其 benchmark 单独保证安全维度不被简化
+- [[neuve]] — 产品化的评审工作流：四个 finder + 证据再核实、lane 分流，把「评审 Agent 能找出什么」落成人机协作的 review desk

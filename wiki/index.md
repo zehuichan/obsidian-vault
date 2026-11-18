@@ -31,6 +31,7 @@
 - [[cua]] — computer-use 2.0 开源栈：后台桌面 Drivers（CLI/MCP）、跨 OS Sandbox、Bench/RL 环境与 Apple Silicon Lume 虚拟化（trycua, 2026）
 - [[lean4-skills]] — 面向 AI 编码 Agent 的 Lean 4 定理证明工作流包：prove/review/golf 循环、mathlib 搜索、公理检查与 LSP-first 护栏（Cameron Freer, 2025）
 - [[reviewbench]] — GitHub 开源的 AI 代码审查离线基准：219 个真实 PR 的人工复核 golden set，用 grounded / augmented precision 与 recall 评估审查 Agent（review-bench, 2026）
+- [[neuve]] — 面向 Agent 时代的开源代码评审工具：commit range → batch / review unit，按复杂度×可验证性分入 Automation / Agentic / Human Suggested / Human Required 四条 lane；四个 finder + 证据再核实、本机 review desk、`.git/neuve/` append-only SQLite、可走 Anthropic / ChatGPT / Claude 订阅三种路线（NeuveAI, 2026）
 - [[vercel-ai-gateway]] — Vercel 统一 AI API：一把密钥访问数百个模型（文本/图像/视频/语音/embeddings），零加价、自动 failover，兼容 AI SDK / OpenAI / Anthropic（Vercel, 2026）
 - [[design-agent]] — LangChain 开源的团队设计 Agent（Content Studio）：基于 Deep Agents + Managed Deep Agents，Slack 里对话出品牌合规的图/deck/图表/短片；每线程独立沙箱、35 个 skills、品牌即代码 + brand-lint 等闸门、异步 helper 与唤醒 harness、密钥不进沙箱（langchain-ai, 2026）
 - [[dsh-superagent]] — DeepSeek 公开的研究原型：绑定单个 GitHub 仓库的主动式编码 Agent（DeepSeek Harness bundle），用 Source/Eval/Mandate/Ticket 把「少占人的注意力」做成授权与面板的硬规则；监听 GitHub 与可选的飞书，默认 observe 只记录主动工作（deepseek-ai, 2026）
