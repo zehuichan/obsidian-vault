@@ -43,6 +43,10 @@
 - [[demystifying-agent-evals]] — Agent 评估方法：task / trial / grader / transcript / outcome 术语，代码、模型、人工三类 grader，pass@k 与 pass^k，从 0 到 1 的 8 步路线图及与生产监控、A/B、人工研究的组合（Anthropic, 2026）
 - [[anthropic-learning-path]] — 追踪 Claude Code / Agent 最新范式的 Anthropic 官方阅读路径：Engineering（24 篇，按 harness / 上下文与记忆 / 评估 / 安全分组）→ Claude Code 文档 → Claude 博客 → News 信号，含精读顺序与本库对照（Anthropic, 2026）
 
+### 产品开发 & 项目管理
+
+- [[linear]] — 面向「团队与 Agent」的产品开发系统：issue / 计划 / 评审同在一处，`@Linear` 把整条 issue 委托给云端 coding agent 出 Draft PR；Loops 自动化（Slack / GitHub 触发）、Diffs 评审（含栈式 PR、移动端）、BYOK，并提供 MCP 与 llms.txt 给 Agent 接入（Linear, 2026，首页营销页）
+
 ### DevOps & 包管理
 
 - [[sentry]] — 开发者优先的错误追踪与 APM 平台：Python/Django 后端 + React 前端 monorepo，20+ 语言 SDK，Fair Source 许可，支持 SaaS 与 self-hosted（getsentry, 2026）
